@@ -1,0 +1,35 @@
+.heading
+{
+    font: 23px;
+    width:100%;
+    margin:0px;
+}
+.nota
+{
+    font-size:15px;
+    color:black;
+}
+body{
+    background-size: cover;
+}
+canvas
+{
+    border:5px solid rgb(184, 62, 103);
+    border-radius: 20px;
+}
+.div_speed{
+    float:left;
+}
+.div_volume{
+    float:right;
+}
+.div_speed_img
+{
+    width: 200px;
+    border-radius: 100px;
+}
+.div_volume_img
+{
+    width: 200px;
+    border-radius: 100px;
+}
